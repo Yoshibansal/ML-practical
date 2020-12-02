@@ -6,3 +6,16 @@ Get started with practical ML
 3. Fashion MNIST-1 (Multi class classifier) (IMAGES) (Tensorflow)
 4. Fashion MNIST-2 (CallBacks)
 5. MNIST (CNN) (Visualizing CONV and pool layers)
+
+
+
+*Building a model is a multi-stage process: -*
+
+
+*Collect, clean and process data*
+
+*Prototype and iterate on your model architecture*
+
+*Train and evaluate results*
+
+*Prepare your model for production*
