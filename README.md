@@ -15,9 +15,6 @@ Get started with practical ML
 *Building a model is a multi-stage process: -*
 
     Collect, clean and process data
-
     Prototype and iterate on your model architecture
-
     Train and evaluate results
-
     Prepare your model for production
