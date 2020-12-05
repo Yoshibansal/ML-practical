@@ -6,7 +6,7 @@ Get started with practical ML
 3. **Fashion MNIST-1** (Multi class classifier) (IMAGES) (Tensorflow)
 4. **Fashion MNIST-2** (CallBacks)
 5. **MNIST** (CNN) (Visualizing CONV and pool layers)
-6. **Cat vs Dog-1** (Binary class classfication) (ImageDataGenerator) (Understand Overfitting)
+6. **Cat vs Dog-1** (Binary class classfication) (ImageDataGenerator) (Understand Overfitting) (Working on your own data)
 
 
 <br />
