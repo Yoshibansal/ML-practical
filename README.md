@@ -7,6 +7,7 @@ Get started with practical ML
 4. **Fashion MNIST-2** (CallBacks)
 5. **MNIST** (CNN) (Visualizing CONV and pool layers)
 6. **Cat vs Dog-1** (Binary class classfication) (ImageDataGenerator) (Understand Overfitting) (Working on your own data)
+7. **Cat vs Dog-2** (Data augmentation) (ImageDataGenerator) (Overfitting-Solution)
 
 
 <br />
