@@ -33,6 +33,7 @@
 - Add cool real world projects (Pneumonia_detection, handwritten-mathematical-symbols, Face recognition, and much more) <br/>
 - Train model in browser (Javascript) <br/>
 - Convert and Deploy model (Website/browser (JS) and Android/IOS (Java) or Edge devices (Raspberry Pi)) (Static and dynamic) (using images and live camera feed) (Transfer learning) <br/>
+- Lambda layer <br/>
 
 - Working with Audio (NLP) <br/>
 
