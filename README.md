@@ -9,8 +9,8 @@
 6. **Cat vs Dog-1** (Binary class classfication) (ImageDataGenerator) (Understand Overfitting) (Working on your own data)
 7. **Cat vs Dog-2** (Data augmentation) (ImageDataGenerator) (Overfitting-Solution)
 8. **Cat vs Dog-visualization** (tensorflow.keras.preprocessing.image)
-9. **Play with this**
-10 **Horses vs Humans-Transfer learning** (Transfer learning) (Inception-V3)
+9. **Play with this** (Try)
+10. **Horses vs Humans-Transfer learning** (Transfer learning) (Inception-V3)
 
 
 <br />
