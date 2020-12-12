@@ -29,7 +29,7 @@
 <br />
 
 ## TO DO <br/>
-- Transfer learning (ResNets or inception_v3) <br/>
+- Transfer learning (ResNets or inception_v3 or mobile net) <br/>
 - Finding optimal learning rate (Using Callbacks) <br/>
 - Add cool real world projects (Pneumonia_detection, handwritten-mathematical-symbols, Face recognition, and much more) <br/>
 - Train model in browser (Javascript) <br/>
